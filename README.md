@@ -11,10 +11,12 @@ This web page is designed to help individuals quit smoking by providing valuable
 
 ## Screenshots
 *Toxin Data*
-![image](https://github.com/errapS/stopSmoking/assets/86922755/4d81cc49-b4ab-479a-a486-04e288d97610)
+![Screenshot 2024-02-29 162718](https://github.com/errapS/stopsmoking/assets/86922755/57ad6c03-f03e-4277-94b4-27742eb4fe80)
+
 
 *Calculator*
-![image](https://github.com/errapS/stopSmoking/assets/86922755/9dfcbe49-5b21-4e5b-af71-f9b6efe996e9)
+![Screenshot 2024-02-29 162810](https://github.com/errapS/stopsmoking/assets/86922755/395d1afe-8c25-4bd2-ae5f-6ca57768f9c3)
+
 
 ## How to Use
 
